@@ -2,17 +2,17 @@
 
 ### Requerimentos:
 
-Baixar e instalar Visual Studio (Usei a versão Community 2019)
-Após instalar pacotes de Desenvolvimento para Desktop com C++ e Desenvolvimento para Linux com C++
+1. Baixar e instalar Visual Studio (Usei a versão Community 2019)
+2. Após instalar pacotes de Desenvolvimento para Desktop com C++ e Desenvolvimento para Linux com C++
 
-Baixar e instalar Strawberry Perl x64 (https://strawberryperl.com/) - Utilizei a versão 5.32.1.1
-Baixar e instalar Nasm Stable x64 (https://www.nasm.us/) - Utilizei a versão 2.15.05
+3. Baixar e instalar Strawberry Perl x64 (https://strawberryperl.com/) - Utilizei a versão 5.32.1.1
+4. Baixar e instalar Nasm Stable x64 (https://www.nasm.us/) - Utilizei a versão 2.15.05
 
-Adicionar Perl (adiciona automaticamente) e Nasm no PATH (variáveis do sistema).
+5. Adicionar Perl (adiciona automaticamente) e Nasm no PATH (variáveis do sistema).
 
 Nasm Dir: C:\Users\<Username>\AppData\Local\bin\NASM
 
-Execute no prompt de comando (para verificar se tudo (Perl, Nasm e nmake) estão instalados corretamente):
+6. Execute no prompt de comando (para verificar se tudo (Perl, Nasm e nmake) estão instalados corretamente):
 
 ```bash
 perl --version
