@@ -10,7 +10,7 @@
 
 5. Adicionar Perl (adiciona automaticamente) e Nasm no PATH (variáveis do sistema).
 
-Nasm Dir: C:\Users\<Username>\AppData\Local\bin\NASM
+Nasm Dir: `C:\Users\<Username>\AppData\Local\bin\NASM`
 
 6. Execute no prompt de comando (para verificar se tudo (Perl, Nasm e nmake) estão instalados corretamente):
 
